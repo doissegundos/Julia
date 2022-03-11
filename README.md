@@ -19,7 +19,9 @@ Este repositório contem projetos da linguagem de programação Julia.
 	
 5. Para facilitar o desenvolvimento do código é importante habilitar um editor de texto para sua execução. Os editores mais utilizados são o Juno ou o VsCode.
 	> Para instalar e configurar o Juno para utilizar a Julia: https://www.youtube.com/watch?v=BlL3a6HN21I
+	
 	> Para instalar o VsCode: https://www.youtube.com/watch?v=_R6YslWRUFk
+	
 	> Configurar o VsCode para utilizar a Julia: https://www.youtube.com/watch?v=zZInEh0pAKg
 	
 6.  A linguagem Julia pode ser instalada em todos os sistemas operacionais seguindo o tutorial do seguinte video:
