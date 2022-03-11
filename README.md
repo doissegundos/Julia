@@ -5,9 +5,7 @@ Este repositório contem projetos da linguagem de programação Julia.
 
 ### Como instalar no Windows
 
-1. Fazer download do arquivo executável  exe em:
-
-		https://julialang.org/downloads/
+1. Fazer download do [arquivo executável](https://julialang.org/downloads/) exe.
 	
 2. Instalar a Julia ap partir do instalador baixado. 
 	>Observação: Selecionar o item para adicionar a Julia ao Path do Windows.
