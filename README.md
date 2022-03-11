@@ -14,6 +14,7 @@ Este repositório contem projetos da linguagem de programação Julia.
 3. Com esses passos o Julia já estará instalado e poderá ser utilizada a partir do seu prompt. 
 4. No prompt digite os seguintes comandos para atualizar os pacotes da Julia:
 	> using Pkg
+	
 	> Pkg.update()
 	
 5. Para facilitar o desenvolvimento do código é importante habilitar um editor de texto para sua execução. Os editores mais utilizados são o Juno ou o VsCode.
