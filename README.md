@@ -32,18 +32,21 @@ Este repositório contem projetos da linguagem de programação Julia.
 	
 7. Para verificar se a linguagem foi instalada com sucesso você pode digitar o comando abaixo no terminal do Julia ou no seu editor de código.
 
-	> print("Hello World!!")
+		print("Hello World!!")
+
 	
 8.  Se tudo estiver ocorrido bem e o código acima executar, então o ambiente está pronto para desenvolvimento Julia.
 
 ### Projetos executados
 Os códigos executados foram extraidos do repositório 	
 
-> https://github.com/svaksha/Julia.jl/blob/master/Graphics.md#3d-graphics-imaging
+	https://github.com/svaksha/Julia.jl/blob/master/Graphics.md#3d-graphics-imaging
 
 ### Luxor
 Para instalar o Pacote Luxor é necessário digitar o comando abaixo no terminal do Julia.
-	>  ] add Luxor
+
+	] add Luxor
 
 Antes de executar qualquer código em Julia que utilize o Luxor deve-se digitar no terminal do VsCode o seguinte comando:
-	> using Luxor
+
+	using Luxor
